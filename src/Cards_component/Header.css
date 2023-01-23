@@ -1,0 +1,14 @@
+li {
+  float: left;
+  padding: 8px;
+}
+nav {
+  background-color: grey;
+}
+ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+.search {
+  float: right;
+}

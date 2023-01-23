@@ -1,0 +1,2 @@
+             //ACCESSING OBJECT
+             function Hi() {     let name = {       firstName: "John",       lastName: "Doe",     };     return (       <>         <h1>           {name.firstName} {name.lastName}         </h1>       </>     );   }   export default Hi;
